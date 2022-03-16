@@ -1,0 +1,22 @@
+_id: req_wrk_a2a2607c572548e883174235adac5b0cbe228ed3
+type: Request
+parentId: fld_wrk_a2a2607c572548e883174235adac5b0c4c24b261
+modified: 1647444286446
+created: 1647444286446
+url: "{{ base_url }}/{{ dataset }}/{{ version }}/fields"
+name: Provides the general information about the API and the list of fields that
+  can be used to query the dataset.
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1647444286446
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
