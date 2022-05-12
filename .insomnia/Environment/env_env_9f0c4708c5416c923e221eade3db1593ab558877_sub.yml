@@ -1,14 +1,18 @@
 _id: env_env_9f0c4708c5416c923e221eade3db1593ab558877_sub
 type: Environment
 parentId: env_9f0c4708c5416c923e221eade3db1593ab558877
-modified: 1647444286460
+modified: 1647542609202
 created: 1647444286460
 name: OpenAPI env
 data:
   scheme: https
   base_path: /ds-api
   host: developer.uspto.gov
-dataPropertyOrder: null
+dataPropertyOrder:
+  "&":
+    - scheme
+    - base_path
+    - host
 color: null
 isPrivate: false
 metaSortKey: 1647444286460
